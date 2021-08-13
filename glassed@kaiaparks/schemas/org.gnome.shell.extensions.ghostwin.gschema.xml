@@ -1,0 +1,9 @@
+<schemalist gettext-domain="gnome-shell-extensions">
+  <schema id="org.gnome.shell.extensions.glassed" path="/org/gnome/shell/extensions/glassed/">
+    <key name="window-opacity" type="i">
+      <default>128</default>
+      <summary>Opacity</summary>
+      <description>This will decide how transparent dragged window.</description>
+    </key>
+  </schema>
+</schemalist>

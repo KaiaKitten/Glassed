@@ -1,0 +1,13 @@
+{
+  "description": "Makes windows semi-transparent",
+  "extension-id": "glassed",
+  "gettext-domain": "gnome-shell-extensions",
+  "name": "Glassed",
+  "settings-schema": "org.gnome.shell.extensions.glassed",
+  "shell-version": [
+    "40"
+  ],
+  "url": "",
+  "uuid": "glassed@kaiaparks",
+  "version": 1
+}
